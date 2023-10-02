@@ -1,7 +1,7 @@
 class Kubecompare < Formula
     desc "A tool to compare Kubernetes rollout histories"
-    url "https://github.com/wozniakpl/kubecompare/archive/v0.1.2.tar.gz"
-    sha256 "c58e2c6420fcd65068263c38343735992c7ba6da3c7720213afdfb9f0166f662"
+    url "https://github.com/wozniakpl/kubecompare/archive/v0.1.3.tar.gz"
+    sha256 "ad03fe1002515ee2d4347f94bf59ffa30f86f6f6e8500e666148a9e105fb7bae"
     license "MIT"
   
     depends_on "go" => :build
